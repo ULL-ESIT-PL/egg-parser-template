@@ -1,0 +1,136 @@
+{
+  "type": "apply",
+  "operator": {
+    "type": "word",
+    "offset": 0,
+    "lineBreaks": 0,
+    "line": 1,
+    "col": 1,
+    "name": "do"
+  },
+  "args": [
+    {
+      "type": "apply",
+      "operator": {
+        "type": "word",
+        "offset": 6,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 3,
+        "name": "def"
+      },
+      "args": [
+        {
+          "type": "word",
+          "offset": 10,
+          "lineBreaks": 0,
+          "line": 2,
+          "col": 7,
+          "name": "x"
+        },
+        {
+          "type": "value",
+          "value": -4.5,
+          "raw": "-4.5"
+        }
+      ]
+    },
+    {
+      "type": "apply",
+      "operator": {
+        "type": "word",
+        "offset": 22,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 3,
+        "name": "def"
+      },
+      "args": [
+        {
+          "type": "word",
+          "offset": 26,
+          "lineBreaks": 0,
+          "line": 3,
+          "col": 7,
+          "name": "y"
+        },
+        {
+          "type": "value",
+          "value": 400,
+          "raw": "4e2"
+        }
+      ]
+    },
+    {
+      "type": "apply",
+      "operator": {
+        "type": "word",
+        "offset": 37,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 3,
+        "name": "def"
+      },
+      "args": [
+        {
+          "type": "word",
+          "offset": 41,
+          "lineBreaks": 0,
+          "line": 4,
+          "col": 7,
+          "name": "z"
+        },
+        {
+          "type": "apply",
+          "operator": {
+            "type": "word",
+            "offset": 44,
+            "lineBreaks": 0,
+            "line": 4,
+            "col": 10,
+            "name": "+"
+          },
+          "args": [
+            {
+              "type": "word",
+              "offset": 46,
+              "lineBreaks": 0,
+              "line": 4,
+              "col": 12,
+              "name": "x"
+            },
+            {
+              "type": "word",
+              "offset": 49,
+              "lineBreaks": 0,
+              "line": 4,
+              "col": 15,
+              "name": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "apply",
+      "operator": {
+        "type": "word",
+        "offset": 56,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 3,
+        "name": "print"
+      },
+      "args": [
+        {
+          "type": "word",
+          "offset": 62,
+          "lineBreaks": 0,
+          "line": 5,
+          "col": 9,
+          "name": "z"
+        }
+      ]
+    }
+  ]
+}
