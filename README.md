@@ -32,7 +32,7 @@ You can check various examples in the examples/ directory.
 
 ## Author
 
-aluXXXX (name aluSurname) - [GitHub Profile](https://github.com/jncabdom)
+aluXXXX (name aluSurname) - [GitHub Profile](https://github.com/crguezl)
 
 ## Tests
 
